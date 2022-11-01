@@ -1,2 +1,2 @@
-# RPN-Calculator
-This is a hardcoded RPN Calculator
+# RPC-Calculator
+This is a hardcoded RPC Calculator
